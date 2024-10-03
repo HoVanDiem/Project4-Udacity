@@ -1,5 +1,5 @@
 Backend: http://a4870a02fa9aa46ca847f67e2fe125fb-48688472.us-east-1.elb.amazonaws.com/movies <br>
-Frontend: a556881681a3b45b4b03f422cf60d86e-2120835115.us-east-1.elb.amazonaws.com <br>
+Frontend: http://a556881681a3b45b4b03f422cf60d86e-2120835115.us-east-1.elb.amazonaws.com <br>
 
 # Movie Picture Pipeline
 
